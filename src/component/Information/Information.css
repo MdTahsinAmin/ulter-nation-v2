@@ -1,0 +1,15 @@
+.information{
+    display:flex;
+}
+.countries-information{
+    width: 75%;
+    margin-left : 20px;
+    margin-right : 5px;
+    margin-bottom :5px;
+    border-right: 1px solid lightgray;
+    padding-right: 15px;
+    
+}
+.text{
+    text-align: center;
+}

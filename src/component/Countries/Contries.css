@@ -1,0 +1,23 @@
+.row{
+    display:flex;
+    border-bottom:1px solid darkgray;
+    margin:10px;
+    padding-bottom: 10px;
+
+}
+.img-section img{
+    height: 80px;
+    padding-bottom:10px;
+    margin-top: 50px;
+}
+.main-btn{
+    padding: 10px 10px;
+
+    border: none;
+   
+    border-radius: 5px;
+
+    color: #f0fff0;
+    
+    background-color:#21B573;
+}
